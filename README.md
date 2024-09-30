@@ -49,7 +49,7 @@ Titulos que possuem um ou dois "#" criam uma linha horizontal abaixo do titulo.
 ***
 ---
 
-##QUEBRA DE LINHA
+## QUEBRA DE LINHA
 <br>
 <br>
 <br>

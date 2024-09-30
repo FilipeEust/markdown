@@ -49,6 +49,11 @@ Titulos que possuem um ou dois "#" criam uma linha horizontal abaixo do titulo.
 ***
 ---
 
+##QUEBRA DE LINHA
+<br>
+<br>
+<br>
+
 ## IMAGEM
 ![Ossos de Dodô](https://github.com/FilipeEust/Ola-Mundo/assets/134540717/3b60db0b-9140-4902-8a3f-c76546319f4a)
 

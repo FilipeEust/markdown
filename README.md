@@ -1,30 +1,28 @@
 # MARKDOWN
-Uma **linguagem de marcação** organiza e estrutura dados usando tags ou símbolos, definindo como o conteúdo será exibido ou processado. Exemplos comuns são HTML (estruturação de páginas web), XML (armazenamento de dados) e Markdown (formatação de texto simples). Essas linguagens são essenciais para a apresentação e organização de informações.
-
-## Vamos testar a linguagem **MarkDown**.
+Uma **linguagem de marcação** organiza e estrutura dados usando tags ou símbolos, definindo como o conteúdo será exibido ou processado. Exemplos comuns são HTML (estruturação de páginas web), XML (armazenamento de dados) e Markdown (formatação de texto simples). Essas linguagens são essenciais para a apresentação e organização de informações. ## Vamos testar a linguagem **MarkDown**.
 
 
-### ITÁLICO
+## ITÁLICO
 _Markdown_
 *Markdown*
 
-### NEGRITO
+## NEGRITO
 **Markdown**
 __Markdown__
 
-### RISCADO
+## RISCADO
 ~~Markdown~~
 
-### NEGRITO + ITÁLICO + RISCADO
+## NEGRITO + ITÁLICO + RISCADO
 __*~~Markdown~~*__
 
-### LISTA
+## LISTA
 1. Pamonha
 1. Pimentão
 5. Alface
 3. Coentro
 
-### LISTA c/ MARCADORES
+## LISTA c/ MARCADORES
 * Opção 01
 * Opção 02
    * Sub Opção 01
@@ -32,33 +30,32 @@ __*~~Markdown~~*__
       * Sub Opção 01
 *Opção 03
 
-### LISTA de TAREFAS
+## LISTA de TAREFAS
 - [ ] Pão
 - [x] Manteiga
 - [ ] Leite
 
-### TÍTULOS
+## TÍTULOS
 ###### título
 ##### título
 #### título
 ### título
-## título
-# título
+Titulos que possuem um ou dois "#" criam uma linha horizontal abaixo do titulo.
 
-### LINHA HORIZONTAL
+## LINHA HORIZONTAL
 ***
 ---
 
-### IMAGEM
+## IMAGEM
 ![Ossos de Dodô](https://github.com/FilipeEust/Ola-Mundo/assets/134540717/3b60db0b-9140-4902-8a3f-c76546319f4a)
 
-### LINK
+## LINK
 [Acesse meu GitHub](github.com/filipeeust)
 
-### COMANDO ISOLADO
+## COMANDO ISOLADO
 `window.document.querySelector()`
 
-### TRECHO de CÓDIGO
+## TRECHO de CÓDIGO
 ```
 num = int(input('Digite um número: '))
 if num % 2 == 0:
@@ -68,7 +65,7 @@ else:
 print('Fim do Programa')
 ```
 
-### CITAÇÕES
+## CITAÇÕES
 > Tralala papa
 > Epá Nenem
 
@@ -76,23 +73,23 @@ print('Fim do Programa')
 @FilipeEust 
 @gustavoguanabara
 
-### MENÇÃO a ISSUE
+## MENÇÃO a ISSUE
 #1
 
-### SÍMBOLOS
+## SÍMBOLOS
 Eliminar os efeitos dos símbolos.
 \## Fornalha
 \*anzol*
 \---
 
-### EMOJIS
+## EMOJIS
 👍 
 💪 
 😮 
 🆘 
 [site de emojis](https://emojipedia.org/)
 
-### TABELAS
+## TABELAS
  Nome | Idade | Cidade | Estado
 :--- | :---: | :--- | :---:
 João | 23 | Itabuna | BA
